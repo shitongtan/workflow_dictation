@@ -26,3 +26,6 @@ Implementing the flask framework
 
 ### What's next for Workflow dictation
 As this is a proof of concept, further work could be done to include more varied use cases and complex shapes that would reflect commercial situations.  After which, partnership with existing flow chart sites such as lucidchart could be in the pipeline to get more data samples and train the model accordingly.
+
+![Image of Workflow Dictation Landing Page](https://github.com/shitongtan/workflow_dictation/blob/master/wd1.jpg)
+![Image of PPT Created](https://github.com/shitongtan/workflow_dictation/blob/master/wd2.jpg)
